@@ -7,22 +7,21 @@ mas para o estudo o dashboar do Power Bi, selecionei uma aba específica  com to
 Enfim chegamos ao projeto.
 Estou no início do projeto, mas já se pode ver alguns resultados.
 
-
-![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/281a7411-4502-4216-8b21-7a6c2fb07cd9)
+![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/707efb37-f7f1-4241-b0ec-0aab73f70c59)
 
 
 Considerando esses valores fictícios, a planilha foi populada apenas com dados dos primeiros meses.
 
-
-![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/ac78a731-a5fa-416f-85bb-211109a217fc)
+![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/18814bf3-bdf7-439a-afda-528e856c3881)
 
 O dashboard tem uma caixa de seleção que possuibilita fazer algumas escolhas para atingir várias informações
 
-![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/47753922-1af5-4dc6-9e94-2d21e12fcb61)
+
 
 O Projeto tambbém gera um relatório resumindo todo fluxo de caixa bastando apenas selecionar o mês desejado
 
 
-![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/fc922004-df6a-46ee-824e-5bb7daec0752)
+![image](https://github.com/alessandragalvaos/DASHBOAR_FINANCEIRO_POWER_BI/assets/156546129/a4395189-1ff9-41a6-b443-023c5ed12cf7)
+
 
 Ainda exitem possibilidade de melhorias... 
