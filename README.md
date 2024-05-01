@@ -25,3 +25,7 @@ O Projeto tambbém gera um relatório resumindo todo fluxo de caixa bastando ape
 
 
 Ainda exitem possibilidade de melhorias... 
+
+### Tecnologias Utilizadas: <p align="left">  
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="20" height="20"/> 
+</p> 
